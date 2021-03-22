@@ -1,0 +1,19 @@
+{
+  "name": "myp",
+  "version": "1.0.0",
+  "description": "mypro",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ali-mustafa8"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "ali",
+  "license": "ISC"
+}
+
